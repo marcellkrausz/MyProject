@@ -16,4 +16,7 @@ public class Food {
     public int getBmiType() {
         return this.bmitype;
     }
+    public String getFoodName(){
+        return this.foodname;
+    }
 }

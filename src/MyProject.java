@@ -49,7 +49,7 @@ public class MyProject {
 
         Foods foods = new Foods();
         Food hereIsYourBreakfast = foods.getABreakfast(bmiType);
-        System.out.println(hereIsYourBreakfast);
+        System.out.println(hereIsYourBreakfast.getFoodName());
 
 //        Food proteinShake = new Food("protein shake", "proteins", 4);
 //        Food oatmeal = new Food("oatmeal", "carbs", 4);
