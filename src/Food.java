@@ -13,11 +13,7 @@ public class Food {
         }
 
 
-
-
-
-
-
-
-
+    public int getBmiType() {
+        return this.bmitype;
+    }
 }
